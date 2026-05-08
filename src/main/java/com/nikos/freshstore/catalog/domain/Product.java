@@ -16,7 +16,6 @@ import java.util.UUID;
 @Entity
 @Table(name = "product", schema = "catalog")
 public class Product {
-    //
     @Id
     @GeneratedValue
     private UUID id;
