@@ -16,5 +16,4 @@ public class CatalogApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(CatalogApplication.class, args);
 	}
-
 }
